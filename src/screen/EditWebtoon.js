@@ -34,14 +34,14 @@ class EditWebtoon extends Component {
   render() {
     return (
       <View>
-        <Header style={styles.headerStyle}>
+        <Header style={styles.headerStyle} androidStatusBarColor='#fb9224'>
           <Left style={styles.headerLeft}>
             <TouchableOpacity onPress={() => this.props.navigation.goBack()}>
               <Icon name='arrow-left' size={20} />
             </TouchableOpacity>
           </Left>
           <Body style={styles.headerBody}>
-            <Title>Edit Webtoon</Title>
+            <Title>Edit BeeToon</Title>
           </Body>
           <Right style={styles.headerRight}>
             <TouchableOpacity onPress={() => this.props.navigation.goBack()}>

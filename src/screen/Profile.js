@@ -54,7 +54,7 @@ class Profile extends Component {
         <View>
           <TouchableOpacity style={styles.buttonList} onPress={() => this.props.navigation.navigate('MyWebtoon')}>
               <Icon name='pencil' color='#919190' size={25} />
-              <Text style={styles.buttonListTitle}>My Webtoon Creation</Text>
+              <Text style={styles.buttonListTitle}>My BeeToon Creation</Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.buttonList} onPress={() => this.props.navigation.navigate('EditProfile')}>
               <Icon name='cog' color='#919190' size={25} />

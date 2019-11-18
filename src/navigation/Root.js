@@ -81,7 +81,7 @@ const Root = createStackNavigator({
   MyWebtoon: {
     screen: MyWebtoon,
     navigationOptions: () => ({
-      headerTitle: 'My Webtoon',
+      headerTitle: 'My BeeToon',
     })
   }
 }, { initialRouteName: 'Splash' });
