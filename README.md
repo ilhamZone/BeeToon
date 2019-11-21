@@ -19,9 +19,8 @@ BeeToon is a platform for comic creators to post their comics. We’re available
  </p>
 
 ## Features
-<li>
-  <ul>Read BeeToon Online</ul>
-  <ul>Profile Management</ul>
-  <ul>Create your comics</ul>
-  <ul>Favorite your comic</ul>
-</li>
+  * Read BeeToon Online
+  * Profile Management
+  * Create your comics
+  * Favorite your comic
+
