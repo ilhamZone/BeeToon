@@ -40,3 +40,8 @@ Follow these step to install <br>
     $ npm install # for npm <br/>
     $ react-native run-ios #for ios <br/>
     $ react-native run-android #for android
+
+## Contact
+  * WA/Telegram +6282387820283
+  * Email: ilham.muhammad007008@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/ilham-muhammad007
