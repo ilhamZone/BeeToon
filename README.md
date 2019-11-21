@@ -24,3 +24,10 @@ BeeToon is a platform for comic creators to post their comics. We’re available
   * Create your comics
   * Favorite your comic
 
+## Tech Stack
+  * React Native for Mobile Frontend
+  * Express Js for REST API
+
+## Prerequisites
+  * Make sure You had been install NodeJs in your system (https://nodejs.org/)
+  * Then install React Native (https://facebook.github.io/react-native/)
