@@ -17,3 +17,11 @@ BeeToon is a platform for comic creators to post their comics. We’re available
  <Image src="https://user-images.githubusercontent.com/45902568/69320641-1ec22100-0c74-11ea-8381-711ec8ccfe5f.png" height="400"          width="200">
  <Image src="https://user-images.githubusercontent.com/45902568/69320642-1ec22100-0c74-11ea-8e29-45eae2620cd8.png" height="400"          width="200">
  </p>
+
+## Features
+<li>
+  <ul>Read BeeToon Online</ul>
+  <ul>Profile Management</ul>
+  <ul>Create your comics</ul>
+  <ul>Favorite your comic</ul>
+</li>
