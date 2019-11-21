@@ -33,9 +33,9 @@ BeeToon is a platform for comic creators to post their comics. We’re available
   * Then install React Native (https://facebook.github.io/react-native/)
 
 ## Installation & Configuration
-  $ git clone https://github.com/ilhamZone/BeeToon.git
-  $ cd DW12CCJG9_webtoon
-  $ yarn install # for yarn
-  $ npm install # for npm
-  $ react-native run-ios #for ios
+  $ git clone https://github.com/ilhamZone/BeeToon.git <br/>
+  $ cd DW12CCJG9_webtoon <br/>
+  $ yarn install # for yarn <br/>
+  $ npm install # for npm <br/>
+  $ react-native run-ios #for ios <br/>
   $ react-native run-android #for android
